@@ -1,0 +1,15 @@
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.csproj.AssemblyReference.cache
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.AssemblyInfoInputs.cache
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.AssemblyInfo.cs
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.csproj.CoreCompileInputs.cache
+/Users/eduardo/Desktop/Estudo/Builder/bin/Debug/net6.0/Builder
+/Users/eduardo/Desktop/Estudo/Builder/bin/Debug/net6.0/Builder.deps.json
+/Users/eduardo/Desktop/Estudo/Builder/bin/Debug/net6.0/Builder.runtimeconfig.json
+/Users/eduardo/Desktop/Estudo/Builder/bin/Debug/net6.0/Builder.dll
+/Users/eduardo/Desktop/Estudo/Builder/bin/Debug/net6.0/Builder.pdb
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.dll
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/refint/Builder.dll
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.pdb
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/Builder.genruntimeconfig.cache
+/Users/eduardo/Desktop/Estudo/Builder/obj/Debug/net6.0/ref/Builder.dll
